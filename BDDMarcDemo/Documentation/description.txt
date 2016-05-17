@@ -1,0 +1,12 @@
+﻿1. install specflow for VS13
+https://visualstudiogallery.msdn.microsoft.com/90ac3587-7466-4155-b591-2cd4cc4401bc
+or for VS15
+https://visualstudiogallery.msdn.microsoft.com/c74211e7-cb6e-4dfa-855d-df0ad4a37dd6
+
+
+2. nuget install 
+http://www.specflow.org/getting-started/
+
+
+3. datasource input
+http://specflowcookbook.com/chapters/linking-table-rows/
